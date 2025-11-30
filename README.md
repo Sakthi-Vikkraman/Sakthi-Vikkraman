@@ -24,3 +24,4 @@ React, Node.js, Python, FastAPI, LangChain, AWS & GCP.
 
 ### 📫 Connect With Me
 📌 LinkedIn: https://linkedin.com/in/sakthivikkraman  
+📌 Leetcode: https://leetcode.com/u/SakthiVikkramanR
