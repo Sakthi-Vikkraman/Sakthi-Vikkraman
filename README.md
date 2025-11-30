@@ -22,21 +22,5 @@ React, Node.js, Python, FastAPI, LangChain, and AWS.
 
 ---
 
-### 🧠 Featured Projects
-**📄 Resume Intelligence Platform**  
-AI-powered resume evaluator using LangGraph, FastAPI, React, FAISS, GPT-4o, AWS CI/CD  
-→ Evaluates resumes, compares versions, generates improvement reports and stores embeddings.
-
-**🧬 Medical RAG System**  
-RAG-based medical knowledge assistant using Pinecone, Sentence-Transformers, Flask, AWS  
-→ Converts books to embeddings, chunks data, deploys as scalable EC2 service.
-
-**🌐 Socialopedia (MERN)**  
-Feature-rich social media platform using React, Node.js, MongoDB, Azure  
-→ Authentication, posts, comments, scalable architecture.
-
----
-
 ### 📫 Connect With Me
 📌 LinkedIn: https://linkedin.com/in/sakthivikkraman  
-📌 GitHub: https://github.com/sakthivikkraman  
