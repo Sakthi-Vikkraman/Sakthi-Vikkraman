@@ -1,14 +1,14 @@
 # Hi, I'm Sakthi Vikkraman 👋  
-**Full-Stack Developer | GenAI Engineer | AI Automation Builder**
+**Full-Stack Developer | AI/ML Enthusiast**
 
 I build scalable full-stack applications and AI-powered automation systems using  
-React, Node.js, Python, FastAPI, LangChain, and AWS.
+React, Node.js, Python, FastAPI, LangChain, AWS & GCP.
 
 ### 🚀 What I Do
 - Develop intelligent applications using **LLMs, RAG, LangChain, Pinecone, HuggingFace**
 - Build **React + Node.js** systems with clean architecture
 - Backend engineering with **FastAPI, Django, Spring Boot**
-- Deploy using **AWS (EC2, ECR, S3), Docker, GitHub Actions CI/CD**
+- Deploy using **AWS , GCP, Docker, GitHub Actions CI/CD**
 
 ---
 
@@ -18,7 +18,7 @@ React, Node.js, Python, FastAPI, LangChain, and AWS.
 **Backend:** Node.js (Express), FastAPI, Django, Spring Boot  
 **AI/ML:** LangChain, LangGraph, HuggingFace, RAG, GPT-4o  
 **Databases:** PostgreSQL, MySQL, MongoDB, Pinecone, FAISS  
-**DevOps:** Docker, GitHub Actions, AWS (ECR, EC2, S3)  
+**DevOps:** Docker, GitHub Actions, AWS, GCP
 
 ---
 
